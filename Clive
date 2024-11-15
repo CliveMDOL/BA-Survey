@@ -1,0 +1,6 @@
+benefits-survey/
+  ├── src/
+  │   ├── app/
+  │   │   └── page.tsx       # Replace this file
+  │   └── components/        # Create this folder if it doesn't exist
+  │       └── BenefitsAdvisorSurvey.tsx  # Create this file
